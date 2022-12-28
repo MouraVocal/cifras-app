@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cifras-app",
+    "slug": "cifras-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
